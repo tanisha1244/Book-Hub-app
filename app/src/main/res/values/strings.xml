@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">book</string>
+    <string name="dashbord">DASHBORD</string>
+    <string name="favourites">FAVOURITES</string>
+    <string name="profile">PROFILE</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_text">sample_text</string>
+    <string name="tanisha_singhal">Tanisha Singhal</string>
+    <string name="it_s_levioosa_not_leviosaa">it s levioosa not leviosaa</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="sample_book_name">sample book name</string>
+    <string name="sample_author">sample author</string>
+    <string name="sample_cost">sample cost</string>
+    <string name="string_action_sort">string action sort</string>
+    <string name="book_cost">book cost</string>
+    <string name="name_of_author">name_of_author</string>
+    <string name="name_of_author_">name of author</string>
+    <string name="_4_5">4.5</string>
+    <string name="list_item">list item</string>
+</resources>
